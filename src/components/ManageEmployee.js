@@ -26,7 +26,7 @@ function ManageEmployee() {
 
   const cols = [
     {
-      title: "Name",
+      title: "Full Name",
       dataIndex: "employee_name"
     },
     {
