@@ -59,7 +59,7 @@ function ManageEmployee() {
   return (
     <div>
       <br></br>
-      <Button
+      {/*<Button
         type="primary"
         icon={<UserAddOutlined />}
         onClick={() => {
@@ -67,7 +67,7 @@ function ManageEmployee() {
         }}
       >
         Add an Employee Record here
-      </Button>
+      </Button>*/}
       <br></br>
       <br></br>
       <Table
